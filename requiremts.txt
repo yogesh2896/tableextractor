@@ -1,6 +1,6 @@
 streamlit
 PyPDF2==1.26.0
-camelot-py[cv]
+camelot
 tabula-py
 pandas 
 openpyxl
